@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conan</string>
+    <string name="nombre">Juan El Pajillas</string>
+    <string name="ocupacion">Guerrero Historico</string>
+    <string name="ciudad">La vida pajera de Juan</string>
+    <string name="fuerza">600 / 1000</string>
+    <string name="pajas">520 / 1000</string>
+    <string name="strong">Fuerza</string>
+    <string name="victimas">Victimas</string>
+    <string name="num_victimas">1025615</string>
+    <string name="armas_t">Pajas especiales</string>
+    <string name="titulo">Sobre Juan El Pajillas</string>
+    <string name="cuerpo">Juanillo El Pajillas es un chaval muy potente y fuerte yque le gustan la pajas, es una persona muy amable. Pero devez en cuando tiene sus episodios.</string>
+    <string name="background">background</string>
+</resources>
